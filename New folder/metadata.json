@@ -1,0 +1,9 @@
+{
+  "name": "TrashTracker India",
+  "description": "A modern, AI-powered citizen reporting tool for identifying, tracking, and resolving urban waste issues. Features automatic waste classification using Gemini Vision.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
